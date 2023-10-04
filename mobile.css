@@ -1,0 +1,68 @@
+body{
+background-image: url('bg2.jpg');
+background-size: 100% 100%;
+}
+
+
+
+/* navbar  */
+.navbar img {
+    width: 25px;
+}
+
+.navbar li {
+    padding: 0px 0px;
+    margin: 0px 7px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+/* body  */
+.container{
+    background-image: none;
+    
+}
+
+.slots {
+    border-radius: 8px;
+    width: 53vw;
+    height: 4vh;
+    font-size: 0.9rem;
+}
+
+h1{
+    font-size: 1.3rem;
+}
+
+.songItem img {
+    width: 5.1vw;
+}
+
+
+
+/* footer  */
+
+.progressBar {
+    width: 100vw;
+    justify-content: space-around;
+}
+
+ .buttons i{     
+    font-size: 2rem;
+ }
+    
+    
+
+#showName{
+    font-size: 0.9rem;
+    position: absolute;
+    width: 50vw;
+    left: 16vw;
+    bottom: 11px;
+
+
+}
